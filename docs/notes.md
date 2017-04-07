@@ -17,15 +17,14 @@
 
 ### Tasci Merger
 - [x] Update core code with recent mappings
-- [ ] Release new version of gem with updated inputs
-- [ ] Refactor Access and extract Tasci merger app into a self-contained Rails app
-- [ ] Test on Tasci Locations on T, I, and X drives
+- [x] Release new version of gem with updated inputs
+- [x] Test on Tasci Locations on T, I, and X drives
 
 ### Access to Database and Data Requests
-- [ ] Ensure Scott/Beth Partners accounts allow login to Access
 - [ ] Determine location of data requested by John: database vs. files
 - [ ] Download and compile database data for John
 - [ ] Train Scott on use of Access tool for DB data downloads (and possibly revamp tool)
+- [ ] Ensure Scott/Beth Partners accounts allow login to Access
 
 
 
