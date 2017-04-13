@@ -1,6 +1,6 @@
 # Using Tasci Merger
 
-1. Navigate to [http://dsmaccess.partners.org/tasci_merger](dsmaccess.partners.org/tasci_merger).
+1. Navigate to [dsmaccess.partners.org/tasci_merger](http://dsmaccess.partners.org/tasci_merger).
 
 2. Log in.
 
