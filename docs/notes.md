@@ -21,11 +21,10 @@
 - [x] Test on Tasci Locations on T, I, and X drives
 
 ### Access to Database and Data Requests
-- [ ] Determine location of data requested by John: database vs. files
+- [x] Determine location of data requested by John: database vs. files
 - [ ] Download and compile database data for John
 - [ ] Train Scott on use of Access tool for DB data downloads (and possibly revamp tool)
 - [ ] Ensure Scott/Beth Partners accounts allow login to Access
-
 
 
 ## Shiny Apps and Server Setup
@@ -43,9 +42,6 @@ The configuration file for shiny server is at:
 ```
 /etc/shiny-server/shiny-server.conf
 ```
-
-`scott kdttime`
-`beth tascitime`
 
 ### Ruby Apps
 The NGINX configuration can be found at `/usr/local/nginx/config`
@@ -110,3 +106,14 @@ Supplemntal material:
 
 Unsure:
 1. Figure 9?
+
+
+
+### Andrew Beth 4/7/2017
+
+Andrew Thought: we are not weighting all circadian phases equally. We might be losing info  
+
+weight equally wrt. circadian phase
+
+
+Bin it and weight each Bin
