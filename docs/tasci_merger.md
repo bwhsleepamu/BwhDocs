@@ -1,6 +1,6 @@
 # Using Tasci Merger
 
-1. Navigate to [dsmaccess.partners.org/tasci_merger](dsmaccess.partners.org/tasci_merger).
+1. Navigate to [http://dsmaccess.partners.org/tasci_merger](dsmaccess.partners.org/tasci_merger).
 
 2. Log in.
 
@@ -13,4 +13,4 @@
 
 5. Submit selection and patiently wait for background tasks to finish.
 
-6. When finished, you will receive a `.zip` file to download. This file contains the master file and the two merged files. 
+6. When finished, you will receive a `.zip` file to download. This file contains the master file and the two merged files.
